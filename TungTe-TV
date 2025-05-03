@@ -3,7 +3,7 @@
   "author": "TungTe",
   "info": "",
   "image": "https://uppic.cloud/ib/qCnGyoN0Ux.jpg",
-  "url": "https://github.com/tong4321/Psbin/raw/refs/heads/main/TungTe-TV",
+  "url": "https://pastebin.com/raw/NeRYDFjH",
   "groups": [
     {
       "name": "Digital TV",
@@ -1172,6 +1172,18 @@
       "info": "",
       "image": "https://uppic.cloud/ib/FfzMDXxwqy.png",
       "stations": [
+		{
+          "name": "TV Garden - Kids",
+          "image": "https://uppic.cloud/ib/oMAnYL9PVa.png",
+          "imageScale": "fitStart",
+          "url": "https://tv.garden/kids/gzEKciy0Y02M8m",
+          "referer": "https://tv.garden/",
+          "online": "",
+          "info": "",
+          "userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13",
+          "embed": "true",
+          "epgId": ""
+        },
         {
           "name": "เวปออนไลน์ 1",
           "image": "https://uppic.cloud/ib/oMAnYL9PVa.png",
