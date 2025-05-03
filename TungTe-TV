@@ -1173,6 +1173,18 @@
       "image": "https://uppic.cloud/ib/FfzMDXxwqy.png",
       "stations": [
 		{
+          "name": "TV Garden - Sports",
+          "image": "https://uppic.cloud/ib/oMAnYL9PVa.png",
+          "imageScale": "fitStart",
+          "url": "https://tv.garden/sports/3GLrMzIr2H1nF3",
+          "referer": "https://tv.garden/",
+          "online": "",
+          "info": "",
+          "userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13",
+          "embed": "true",
+          "epgId": ""
+        },
+		{
           "name": "TV Garden - Kids",
           "image": "https://uppic.cloud/ib/oMAnYL9PVa.png",
           "imageScale": "fitStart",
