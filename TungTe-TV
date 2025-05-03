@@ -1,1025 +1,1202 @@
 {
-    "name": "TungTe-TV-Live",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/qCnGyoN0Ux.jpg",
-    "url":"https://pastebin.com/raw/NeRYDFjH",
-	"groups": [
-	{
-    "name": "Digital TV",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/EnJDBTHPwG.png",
-	"stations": [
+  "name": "TungTe-TV-Live",
+  "author": "TungTe",
+  "info": "",
+  "image": "https://uppic.cloud/ib/qCnGyoN0Ux.jpg",
+  "url": "https://pastebin.com/raw/NeRYDFjH",
+  "groups": [
+    {
+      "name": "Digital TV",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://uppic.cloud/ib/EnJDBTHPwG.png",
+      "stations": [
         {
           "name": "ช่อง 3",
           "image": "https://uppic.cloud/ib/Yz8FPVvuFp.png",
           "url": "https://www.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
           "name": "ช่อง 5",
           "image": "https://uppic.cloud/ib/B4f0y5pQ27.jpg",
           "url": "https://www.livedoomovies.com:4432/02_5HD_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
           "name": "ช่อง 7",
           "image": "https://uppic.cloud/ib/M8KhsgczsE.jpg",
           "url": "https://www.livedoomovies.com:4432/02_7HD_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
           "name": "ช่อง 8",
           "image": "https://uppic.cloud/ib/O45v8P6T2h.png",
           "url": "https://www.livedoomovies.com:4432/02_8HD_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
           "name": "MCOT 9",
           "image": "https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Channel_9_MCOT_HD_2017.png/revision/latest?cb=20170504031451",
           "url": "https://www.livedoomovies.com:4432/02_MCOTHD_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
           "name": "ไทยรัฐ TV",
           "image": "https://i.postimg.cc/cCwSSRvv/Thairath.png",
           "url": "https://www.livedoomovies.com:4432/02_THAIRATH_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-{
-"name": "ไทยไซโย",
-"image": "https://dl.dropbox.com/s/53njjabp453iua4/thaichiyo.png?dl=0",
-"imageScale": "fitStart",
-"url": "https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8",
-        "info":"",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"
-},
-          {
-        "name": "ALTV4",
-        "image": "https://i.postimg.cc/QMdhTKyz/Altv4.png",
-        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "ไทยไซโย",
+          "image": "https://dl.dropbox.com/s/53njjabp453iua4/thaichiyo.png?dl=0",
+          "imageScale": "fitStart",
+          "url": "https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8",
+          "info": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+          "online": "true"
+        },
+        {
+          "name": "ALTV4",
+          "image": "https://i.postimg.cc/QMdhTKyz/Altv4.png",
+          "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
           "name": "Amarin",
           "image": "https://i.postimg.cc/KYWS3qLK/Amarin.png",
           "url": "https://inwiptv.com/player_demo.php?channel=27135",
-          "referer": "https://www.madoohd.com/"},
-          
+          "referer": "https://www.madoohd.com/"
+        },
         {
           "name": "GMM 25",
           "image": "https://i.postimg.cc/HjDh4Fsx/GMM25.png",
           "url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-          "playInNatPlayer": "true"},
-		{ 
-		"name": "JKN 18", 
-		"image": "https://i.postimg.cc/W39V8NQ4/JKN.png", 
-        "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv//index.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-{
-"name": "Mix Major",
-"image": "https://www.tvjaa.com/storage/tv-channels/majormix.png",
-"imageScale": "fitStart",
-"url":"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
-        "info":"",
-"userAgent": "ExoPlayerLib/2.8.4", "online": "true"},
-       {
-name:"  MONO 29",
-image:"https://i.postimg.cc/L4NFF8Q4/mono29.png",
-url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8",
-"info": "720P"},
-           {
-        "name": "Nation 22",
-        "image": "https://www.beartai.com/wp-content/uploads/2013/12/Nation22.png",
-        "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation//index.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-{
-name:"  NBT HD ",
-image:"https://vignette.wikia.nocookie.net/logopedia/images/9/92/NBT_2009_(1).png/revision/latest?cb=20170622033449",
-"url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8", 
-"info": "720P"},
-{
-"name": " TNN2",
-"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ff1b957db-b175-45fc-ab2b-60150f9c570a.png&w=320&h=240",
-"imageScale": "fitStart",
-"url":"https://tv.trueid.net/th-th/live/tnn-2?autoplay=yes&nopageview=yes",
-        "info":"",
-"referer": "https://tv.trueid.net/",
-"embed": "", "online": "true"},
-          {
-        "name": "TNN 16",
-        "image": "https://dl.dropboxusercontent.com/scl/fi/akpxx6tv728ccfq8x8avr/TNN16.png?rlkey=tvaaz0f5vqekb3jejl05v9es1&dl=0",
-        "url": "http://news1.live14.com/stream/news1_hi.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
-        "name": "ONE 31",
-        "image": "https://i.postimg.cc/2j2y9m4h/One31.png",
-        "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "name": "JKN 18",
+          "image": "https://i.postimg.cc/W39V8NQ4/JKN.png",
+          "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv//index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
-        "name": "Police",
-        "image": "https://i.postimg.cc/FszR2qZq/Police.png",
-        "url": "http://cdn-th-vip.login.in.th/policetv/policetv/chunklist_w1654756275.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-{
-"name": "PPTV",
-"image": "https://i.postimg.cc/zfCXC1zL/PPTV.png",
-"imageScale": "fitStart",
-"url":"https://tv.trueid.net/th-th/live/pptv-hd?autoplay=yes&nopageview=yes",
-        "info":"",
-"epgId": "PPTVHD.th",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"},
+          "name": "Mix Major",
+          "image": "https://www.tvjaa.com/storage/tv-channels/majormix.png",
+          "imageScale": "fitStart",
+          "url": "https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
+          "info": "",
+          "userAgent": "ExoPlayerLib/2.8.4",
+          "online": "true"
+        },
+        {
+          "name": "MONO 29",
+          "image": "https://i.postimg.cc/L4NFF8Q4/mono29.png",
+          "url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8",
+          "info": "720P"
+        },
+        {
+          "name": "Nation 22",
+          "image": "https://www.beartai.com/wp-content/uploads/2013/12/Nation22.png",
+          "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation//index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "  NBT HD ",
+          "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/92/NBT_2009_(1).png/revision/latest?cb=20170622033449",
+          "url": "https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8",
+          "info": "720P"
+        },
+        {
+          "name": " TNN2",
+          "image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2017%2F10%2F18%2Ff1b957db-b175-45fc-ab2b-60150f9c570a.png&w=320&h=240",
+          "imageScale": "fitStart",
+          "url": "https://tv.trueid.net/th-th/live/tnn-2?autoplay=yes&nopageview=yes",
+          "info": "",
+          "referer": "https://tv.trueid.net/",
+          "embed": "",
+          "online": "true"
+        },
+        {
+          "name": "TNN 16",
+          "image": "https://dl.dropboxusercontent.com/scl/fi/akpxx6tv728ccfq8x8avr/TNN16.png?rlkey=tvaaz0f5vqekb3jejl05v9es1&dl=0",
+          "url": "http://news1.live14.com/stream/news1_hi.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ONE 31",
+          "image": "https://i.postimg.cc/2j2y9m4h/One31.png",
+          "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Police",
+          "image": "https://i.postimg.cc/FszR2qZq/Police.png",
+          "url": "http://cdn-th-vip.login.in.th/policetv/policetv/chunklist_w1654756275.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "PPTV",
+          "image": "https://i.postimg.cc/zfCXC1zL/PPTV.png",
+          "imageScale": "fitStart",
+          "url": "https://tv.trueid.net/th-th/live/pptv-hd?autoplay=yes&nopageview=yes",
+          "info": "",
+          "epgId": "PPTVHD.th",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+          "online": "true"
+        },
         {
           "name": "Thai PBS",
           "image": "https://i.postimg.cc/1Xj9mmHd/ThaiPBS.png",
           "url": "https://www.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-{
-"name": "TOP NEWS",
-"image": "https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",
-"imageScale": "fitStart",
-"url": "https://live.topnews.co.th/hls/topnews_720.m3u8",
-        "info":"",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"
-},
-          {
-        "name": "TPTV",
-        "image": "https://i.postimg.cc/85TkwncZ/TPTV.jpg",
-        "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TOP NEWS",
+          "image": "https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",
+          "imageScale": "fitStart",
+          "url": "https://live.topnews.co.th/hls/topnews_720.m3u8",
+          "info": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+          "online": "true"
+        },
+        {
+          "name": "TPTV",
+          "image": "https://i.postimg.cc/85TkwncZ/TPTV.jpg",
+          "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
           "name": "True4U",
           "image": "https://i.postimg.cc/j5qKyw39/True4U-2.jpg",
           "url": "https://www.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-{
-"name":"WorkPoint",
-"image":"https://www.dropbox.com/s/kb80kijfa99pms8/22-12-14-03-30-00-388_deco.jpg?dl=1",
-"url":"https://livesod365.com/live/workpoint/workpoint/",
-"referer": "https://livesod365.com/",
-"info": "Udom TV",
-"playInNatPlayer": "true"}]
-	},
-	{
-    "name": "Entertainment",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/rNgoZdOVvC.jpg",
-	"stations": [
-        { 
-		"name": "3BB Asian (1)",
-		"image":"https://uppic.cloud/ib/SqpW4H2Bya.JPG",
-        "url":"https://dookeela.live/live-tv/3bbasian#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-		{
-		"name": "AXN (TH)",
-		"image":"https://uppic.cloud/ib/pHwjMxjsNu.JPG",
-		"url":"https://dookeela.live/live-tv/axn#",
-		"referer": "https://dookeela.live/live-tv#",
-		"info": "",
-		"desktop": "true"},
-		{
-		"name": "AXN (US)",
-		"image":"https://uppic.cloud/ib/pHwjMxjsNu.JPG",
-		"url":"https://streamer1.nexgen.bz/AXN/index.m3u8",
-		"referer": "https://tv.garden/us/QKdcfRVNrki2nY",
-		"info": "",
-		"desktop": "true"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
-        "name": "Channel 8",
-        "image": "https://uppic.cloud/ib/OWgD9DP6BT.JPG",
-        "url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "name": "WorkPoint",
+          "image": "https://www.dropbox.com/s/kb80kijfa99pms8/22-12-14-03-30-00-388_deco.jpg?dl=1",
+          "url": "https://livesod365.com/live/workpoint/workpoint/",
+          "referer": "https://livesod365.com/",
+          "info": "Udom TV",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://uppic.cloud/ib/rNgoZdOVvC.jpg",
+      "stations": [
         {
-        "name":"Cinemax HD",
-        "image":"https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
-        "url":"https://dookeela.live/live-tv/cinemax#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-{
-"name": "Cool Channel",
-"image": "https://cms.dmpcdn.com/livetv/2022/10/26/9bf6e290-5501-11ed-8a1c-1b0203708999_webp_320.webp",
-"imageScale": "fitStart",
-"url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
-        "info":"",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"
-},
+          "name": "3BB Asian (1)",
+          "image": "https://uppic.cloud/ib/SqpW4H2Bya.JPG",
+          "url": "https://dookeela.live/live-tv/3bbasian#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
-        "name": "FW Comedy",
-        "image": "https://img5.pic.in.th/file/secure-sv1/COM.png",
-        "imageScale": "fitStart",
-        "url": "https://www.inwiptv.com/player_demo.php?channel=89781",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "name": "AXN (TH)",
+          "image": "https://uppic.cloud/ib/pHwjMxjsNu.JPG",
+          "url": "https://dookeela.live/live-tv/axn#",
+          "referer": "https://dookeela.live/live-tv#",
+          "info": "",
+          "desktop": "true"
+        },
         {
-        "name": "FW Movie",
-        "image": "https://img5.pic.in.th/file/secure-sv1/MOV.png",
-        "imageScale": "fitStart",
-        "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},       
+          "name": "AXN (US)",
+          "image": "https://uppic.cloud/ib/pHwjMxjsNu.JPG",
+          "url": "https://streamer1.nexgen.bz/AXN/index.m3u8",
+          "referer": "https://tv.garden/us/QKdcfRVNrki2nY",
+          "info": "",
+          "desktop": "true"
+        },
         {
-        "name": "FW Series",
-        "image": "https://img5.pic.in.th/file/secure-sv1/SIR.png",
-        "imageScale": "fitStart",
-        "url": "https://www.inwiptv.com/player_demo.php?channel=94898",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},       
-		{
-		"name":"HBO Family",
-        "image": "https://uppic.cloud/ib/MNN4e6XR7B.JPG",
-        "url": "https://dookeela.live/live-tv/hbo-family#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},	
-		{
-		"name": "HBO HD (Eng)",
-		"image": "https://uppic.cloud/ib/iwAzYusVRa.JPG",
-		"url": "https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8",
-		"referer":"https://freetvdd.com/",
-		"info":""},
-		{
-		"name":"HBO HD (TH)",
-        "image": "https://uppic.cloud/ib/iwAzYusVRa.JPG",
-        "url": "https://dookeela.live/live-tv/hbo#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-		{
-		"name":"HBO Hits",
-        "image": "https://uppic.cloud/ib/55U3K8Jy0M.JPG",
-        "url": "https://dookeela.live/live-tv/hbo-hits#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-		{
-		"name":"HBO Signature",
-        "image":"https://uppic.cloud/ib/AuOFN4iZE2.JPG",
-        "url":"https://dookeela.live/live-tv/hbo-signature#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-		{
-		"name": "HITS",
-		"image": "https://uppic.cloud/ib/kkO1G3LGhhFFFjQ_1722320770.jpg",
-		"url": "https://dookeela.live/live-tv/hits#",
-		"referer":"https://dookeela.live/live-tv#",
-		"info":""},
-		{
-		"name": "HITS Movies",
-		"image": "https://uppic.cloud/ib/EaGgdddu7OJI8lT_1722321444.jpg",
-		"url": "https://dookeela.live/live-tv/hits-movies#",
-		"referer":"https://dookeela.live/live-tv#",
-		"info":""},
-		{
-		"name": "KBS World",
-		"image": "https://uppic.cloud/ib/NglYdjoMyv.JPG",
-		"referer":"https://kbsworld-ott.akamaized.net",
-		"url":"https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1"},
-       {
-name:"  MONO 29",
-image:"https://i.postimg.cc/L4NFF8Q4/mono29.png",
-url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8",
-"info": "720P"},
-		{ 
-		"name": "MONO29+", 
-        "image":"https://uppic.cloud/ib/PhFjcXA5zD.JPG",
-        "url": "https://dookeela.live/live-tv/mono29plus#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "name": "Channel 8",
+          "image": "https://uppic.cloud/ib/OWgD9DP6BT.JPG",
+          "url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Cinemax HD",
+          "image": "https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/Cinemax.png",
+          "url": "https://dookeela.live/live-tv/cinemax#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Cool Channel",
+          "image": "https://cms.dmpcdn.com/livetv/2022/10/26/9bf6e290-5501-11ed-8a1c-1b0203708999_webp_320.webp",
+          "imageScale": "fitStart",
+          "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+          "info": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+          "online": "true"
+        },
+        {
+          "name": "FW Comedy",
+          "image": "https://img5.pic.in.th/file/secure-sv1/COM.png",
+          "imageScale": "fitStart",
+          "url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "FW Movie",
+          "image": "https://img5.pic.in.th/file/secure-sv1/MOV.png",
+          "imageScale": "fitStart",
+          "url": "https://www.inwiptv.com/player_demo.php?channel=95262",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "FW Series",
+          "image": "https://img5.pic.in.th/file/secure-sv1/SIR.png",
+          "imageScale": "fitStart",
+          "url": "https://www.inwiptv.com/player_demo.php?channel=94898",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "HBO Family",
+          "image": "https://uppic.cloud/ib/MNN4e6XR7B.JPG",
+          "url": "https://dookeela.live/live-tv/hbo-family#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "HBO HD (Eng)",
+          "image": "https://uppic.cloud/ib/iwAzYusVRa.JPG",
+          "url": "https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8",
+          "referer": "https://freetvdd.com/",
+          "info": ""
+        },
+        {
+          "name": "HBO HD (TH)",
+          "image": "https://uppic.cloud/ib/iwAzYusVRa.JPG",
+          "url": "https://dookeela.live/live-tv/hbo#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "HBO Hits",
+          "image": "https://uppic.cloud/ib/55U3K8Jy0M.JPG",
+          "url": "https://dookeela.live/live-tv/hbo-hits#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "HBO Signature",
+          "image": "https://uppic.cloud/ib/AuOFN4iZE2.JPG",
+          "url": "https://dookeela.live/live-tv/hbo-signature#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "HITS",
+          "image": "https://uppic.cloud/ib/kkO1G3LGhhFFFjQ_1722320770.jpg",
+          "url": "https://dookeela.live/live-tv/hits#",
+          "referer": "https://dookeela.live/live-tv#",
+          "info": ""
+        },
+        {
+          "name": "HITS Movies",
+          "image": "https://uppic.cloud/ib/EaGgdddu7OJI8lT_1722321444.jpg",
+          "url": "https://dookeela.live/live-tv/hits-movies#",
+          "referer": "https://dookeela.live/live-tv#",
+          "info": ""
+        },
+        {
+          "name": "KBS World",
+          "image": "https://uppic.cloud/ib/NglYdjoMyv.JPG",
+          "referer": "https://kbsworld-ott.akamaized.net",
+          "url": "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8?_=1"
+        },
+        {
+          "name": "  MONO 29",
+          "image": "https://i.postimg.cc/L4NFF8Q4/mono29.png",
+          "url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8",
+          "info": "720P"
+        },
+        {
+          "name": "MONO29+",
+          "image": "https://uppic.cloud/ib/PhFjcXA5zD.JPG",
+          "url": "https://dookeela.live/live-tv/mono29plus#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
           "name": "MTV Asia",
           "image": "https://uppic.cloud/ib/FDLKvpq1lC.JPG",
           "url": "https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/playlist.m3u8",
-          "referer": "https://streaming.livescorethai.net/"},
+          "referer": "https://streaming.livescorethai.net/"
+        },
         {
-        "name": "NKTV",
-        "image": "https://uppic.cloud/ib/hAPMjjd0L8.jpg",
-        "imageScale": "fitStart",
-        "url": "http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-{
-"name": "Paramount",
-"image": "https://uppic.cloud/ib/XdkyC6iI63.JPG",
-"imageScale": "fitStart",
-"url": "https://dookeela.live/live-tv/paramount-network#",
-"referer": "https://dookeela.live/live-tv#",
-        "embed":"",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
-        "online":"true"},
+          "name": "NKTV",
+          "image": "https://uppic.cloud/ib/hAPMjjd0L8.jpg",
+          "imageScale": "fitStart",
+          "url": "http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
-        "name": "Rock Action",
-        "image": "https://uppic.cloud/ib/SGkj7slCmXSVwZg_1722320480.jpg", 
-        "url": "https://dookeela.live/live-tv/rock-action#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},       
+          "name": "Paramount",
+          "image": "https://uppic.cloud/ib/XdkyC6iI63.JPG",
+          "imageScale": "fitStart",
+          "url": "https://dookeela.live/live-tv/paramount-network#",
+          "referer": "https://dookeela.live/live-tv#",
+          "embed": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+          "online": "true"
+        },
         {
-        "name": "Rock Entertainment",
-        "image": "https://uppic.cloud/ib/ZLJjBRch0xf1y2B_1722320573.jpg", 
-        "url": "https://dookeela.live/live-tv/rock-entertainment#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "name": "Rock Action",
+          "image": "https://uppic.cloud/ib/SGkj7slCmXSVwZg_1722320480.jpg",
+          "url": "https://dookeela.live/live-tv/rock-action#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Rock Entertainment",
+          "image": "https://uppic.cloud/ib/ZLJjBRch0xf1y2B_1722320573.jpg",
+          "url": "https://dookeela.live/live-tv/rock-entertainment#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
           "name": "True4U",
           "image": "https://i.postimg.cc/j5qKyw39/True4U-2.jpg",
           "url": "https://www.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
+          "referer": "https://www.madoohd.com/"
+        },
         {
-        "name": "TRUE AsianMore",
-        "image": "https://uppic.cloud/ib/bInM0uvEJF.jpg",
-        "url": "https://dookeela.live/live-tv/trueasianmore#",
-        "info": "",
-        "referer": "https://dookeela.live/live-tv#"},
-		{
-		"name":"TRUE Film 1",
-		"image": "https://uppic.cloud/ib/vau2UfNgl5.jpg",
-		"url": "https://dookeela.live/live-tv/truefilm1#",
-		"referer": "https://dookeela.live/live-tv#"},
-		{
-		"name":"TRUE Film 2",
-		"image": "https://uppic.cloud/ib/MWcmw9bsex1xTqg_1722558497.jpg",
-		"url": "https://dookeela.live/live-tv/truefilm2#",
-		"referer": "https://dookeela.live/live-tv#"},
-		{
-		"name":"TRUE FilmAsia",
-		"image": "https://uppic.cloud/ib/FCOY0Pwiyb.JPG",
-		"url": "https://dookeela.live/live-tv/truefilmasia#",
-		"referer": "https://dookeela.live/live-tv#"},
-		{
-		"name":"TRUE Movie Hits",
-		"image": "https://uppic.cloud/ib/igyIEFYfqI.JPG",
-		"url": "https://dookeela.live/live-tv/truemoviehits#",
-		"referer": "https://dookeela.live/live-tv#"},
-
-    	{ 
-		"name": "TRUE Series", 
-        "image": "https://uppic.cloud/ib/717U8cqdEr.jpg",
-        "url": "https://dookeela.live/live-tv/trueseries#",
-        "referer": "https://dookeela.live/live-tv#"},
-
-    	{
-		"name":"TRUE ThaiFilm",
-		"image":"https://uppic.cloud/ib/QP9tD7X3Jp.JPG",
-		"url": "https://dookeela.live/live-tv/truethaifilm#",
-		"referer": "https://dookeela.live/live-tv#"},
-
-    	{
-		name:"TRUE X-Zyte",
-		"author": "",
-		image:"https://uppic.cloud/ib/7QvnXh3mGZ.jpg",
-		url:"https://dookeela.live/live-tv/truex-zyte#",
-		"referer": "https://dookeela.live/live-tv#",
-		playInNatPlayer: "true"},
+          "name": "TRUE AsianMore",
+          "image": "https://uppic.cloud/ib/bInM0uvEJF.jpg",
+          "url": "https://dookeela.live/live-tv/trueasianmore#",
+          "info": "",
+          "referer": "https://dookeela.live/live-tv#"
+        },
         {
-        "name": "TVN",
-        "image": "https://uppic.cloud/ib/5UeY3XbbRf.JPG",
-        "url": "https://dookeela.live/live-tv/tvn-movies#",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-    	{
-		"name": "Warner TV", 
-        "image":"https://uppic.cloud/ib/aCoNIVypF5.png",
-        "url": "https://dookeela.live/live-tv/warnertv#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"}]
-},
-{
-    "name": "Kids",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/LeGXm64KCB.jpg",
-	"stations": [
-{
-		"name": "ANIMAX",
-		"image":"https://uppic.cloud/ib/YP99UrtxzN.png",
-		"url":"https://dookeela.live/live-tv/animax#",
-		"referer": "https://dookeela.live/live-tv#",
-		"info": "",
-		"desktop": "true"},
-	{
-		"name": "Boomerang (1)",
-		"image": "https://uppic.cloud/ib/YwU5iX4e4b.png",
-		"url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist_w1953968698.m3u8",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-		"desktop": "true"},
-	{
-		"name": "Boomerang (2)",
-		"image": "https://uppic.cloud/ib/YwU5iX4e4b.png",
-        "url": "https://dookeela.live/live-tv/boomerang#",
-        "referer": "https://dookeela.live/live-tv#",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-	{  
-		name: "Cartoon Club",
-		image:"https://uppic.cloud/ib/9S7kWtr4jy.png",
-		url:"https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8",
-		"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-		"desktop": "true"},
-	{
-		"name":	"Cartoon Network",
-		"image": "https://uppic.cloud/ib/6HgBobjMBU.png",
-		"url": "https://dookeela.live/live-tv/cartoon-network#",
-		"referer": "https://dookeela.live/live-tv#","
-		info": "livescorethai",
-		"playInNatPlayer": "true"},
-	{
-		"name": "Disney Channel (TH)",
-		"image": "https://uppic.cloud/ib/jdHO8Li6QxDc11x_1722323019.png",
-		"url": "https://dookeela.live/live-tv/disney-channel#",
-        "referer": "https://dookeela.live/live-tv#",
-		"playInNatPlayer": "true"},
-	{
-		"name": "Disney Channel (US)",
-		"image": "https://uppic.cloud/ib/jdHO8Li6QxDc11x_1722323019.png",
-		"url": "https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
-        "referer": "https://tv.garden/us/",
-		"playInNatPlayer": "true"},
-	{
-		"name": "Disney Junior",
-		"image": "https://uppic.cloud/ib/8hBsqpUkwokaPER_1722323276.png",
-		"url": "https://dookeela.live/live-tv/disney-junior#",
-        "referer": "https://dookeela.live/live-tv#",
-		"playInNatPlayer": "true"},
-	{
-		"name": "Disney XD (TH)",
-		"image": "https://uppic.cloud/ib/HiBljOAwwVysF15_1722323076.png",
-		"url": "https://dookeela.live/live-tv/disneyxd#",
-        "referer": "https://dookeela.live/live-tv#",
-		"playInNatPlayer": "true"},
-	{
-		"name": "Disney XD (US)",
-		"image": "https://uppic.cloud/ib/HiBljOAwwVysF15_1722323076.png",
-		"url": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
-        "referer": "https://tv.garden/us/",
-		"playInNatPlayer": "true"}, 
+          "name": "TRUE Film 1",
+          "image": "https://uppic.cloud/ib/vau2UfNgl5.jpg",
+          "url": "https://dookeela.live/live-tv/truefilm1#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
         {
-        "name": "FW cartoon",
-        "image": "https://img2.pic.in.th/pic/CAR.png",
-        "imageScale": "fitStart",
-        "url": "https://www.inwiptv.com/player_demo.php?channel=89780",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
+          "name": "TRUE Film 2",
+          "image": "https://uppic.cloud/ib/MWcmw9bsex1xTqg_1722558497.jpg",
+          "url": "https://dookeela.live/live-tv/truefilm2#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "TRUE FilmAsia",
+          "image": "https://uppic.cloud/ib/FCOY0Pwiyb.JPG",
+          "url": "https://dookeela.live/live-tv/truefilmasia#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "TRUE Movie Hits",
+          "image": "https://uppic.cloud/ib/igyIEFYfqI.JPG",
+          "url": "https://dookeela.live/live-tv/truemoviehits#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "TRUE Series",
+          "image": "https://uppic.cloud/ib/717U8cqdEr.jpg",
+          "url": "https://dookeela.live/live-tv/trueseries#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "TRUE ThaiFilm",
+          "image": "https://uppic.cloud/ib/QP9tD7X3Jp.JPG",
+          "url": "https://dookeela.live/live-tv/truethaifilm#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "TRUE X-Zyte",
+          "author": "",
+          "image": "https://uppic.cloud/ib/7QvnXh3mGZ.jpg",
+          "url": "https://dookeela.live/live-tv/truex-zyte#",
+          "referer": "https://dookeela.live/live-tv#",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "TVN",
+          "image": "https://uppic.cloud/ib/5UeY3XbbRf.JPG",
+          "url": "https://dookeela.live/live-tv/tvn-movies#",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Warner TV",
+          "image": "https://uppic.cloud/ib/aCoNIVypF5.png",
+          "url": "https://dookeela.live/live-tv/warnertv#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Kids",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://uppic.cloud/ib/LeGXm64KCB.jpg",
+      "stations": [
+        {
+          "name": "ANIMAX",
+          "image": "https://uppic.cloud/ib/YP99UrtxzN.png",
+          "url": "https://dookeela.live/live-tv/animax#",
+          "referer": "https://dookeela.live/live-tv#",
+          "info": "",
+          "desktop": "true"
+        },
+        {
+          "name": "Boomerang (1)",
+          "image": "https://uppic.cloud/ib/YwU5iX4e4b.png",
+          "url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/chunklist_w1953968698.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "desktop": "true"
+        },
+        {
+          "name": "Boomerang (2)",
+          "image": "https://uppic.cloud/ib/YwU5iX4e4b.png",
+          "url": "https://dookeela.live/live-tv/boomerang#",
+          "referer": "https://dookeela.live/live-tv#",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Cartoon Club",
+          "image": "https://uppic.cloud/ib/9S7kWtr4jy.png",
+          "url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "desktop": "true"
+        },
+        {
+          "name": "Cartoon Network",
+          "image": "https://uppic.cloud/ib/6HgBobjMBU.png",
+          "url": "https://dookeela.live/live-tv/cartoon-network#",
+          "referer": "https://dookeela.live/live-tv#",
+          "info": "livescorethai",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Disney Channel (TH)",
+          "image": "https://uppic.cloud/ib/jdHO8Li6QxDc11x_1722323019.png",
+          "url": "https://dookeela.live/live-tv/disney-channel#",
+          "referer": "https://dookeela.live/live-tv#",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Disney Channel (US)",
+          "image": "https://uppic.cloud/ib/jdHO8Li6QxDc11x_1722323019.png",
+          "url": "https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
+          "referer": "https://tv.garden/us/",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Disney Junior",
+          "image": "https://uppic.cloud/ib/8hBsqpUkwokaPER_1722323276.png",
+          "url": "https://dookeela.live/live-tv/disney-junior#",
+          "referer": "https://dookeela.live/live-tv#",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Disney XD (TH)",
+          "image": "https://uppic.cloud/ib/HiBljOAwwVysF15_1722323076.png",
+          "url": "https://dookeela.live/live-tv/disneyxd#",
+          "referer": "https://dookeela.live/live-tv#",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Disney XD (US)",
+          "image": "https://uppic.cloud/ib/HiBljOAwwVysF15_1722323076.png",
+          "url": "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8",
+          "referer": "https://tv.garden/us/",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "FW cartoon",
+          "image": "https://img2.pic.in.th/pic/CAR.png",
+          "imageScale": "fitStart",
+          "url": "https://www.inwiptv.com/player_demo.php?channel=89780",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
         {
           "name": "Nickelodeon (TH)",
           "image": "https://i.postimg.cc/Kctf1F1X/Nickelodeon-Logo.png",
           "url": "https://dookeela.live/live-tv/nickelodeon#",
-          "referer": "https://dookeela.live/live-tv#"}, 
+          "referer": "https://dookeela.live/live-tv#"
+        },
         {
           "name": "Nickelodeon (US)",
           "image": "https://i.postimg.cc/Kctf1F1X/Nickelodeon-Logo.png",
           "url": "https://tx2.nexgen.bz/NICKELODEON/index.m3u8",
-          "referer": "https://tv.garden/us/TXc0ToY39JoCVk"},
-
-		{
-		"name": "KidsFlix",
-		"image": "https://uppic.cloud/ib/nEOhGGxBOfK06sV_1733196355.webp",
-		"url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
-		"referer":"https://freetvdd.com/",
-		"info":"TV.Garden"},
-        {
-          "name": "True SparkPlay",
-          "image": "https://uppic.cloud/ib/nTie4wG6DjUvAEP_1722323599.jpg",
-          "url": "https://dookeela.live/live-tv/truesparkplay#",
-          "referer": "https://dookeela.live/live-tv#"}, 
-	{
-        "name": "ZOOMOO",
-        "image": "https://i.postimg.cc/Qx8YDtrH/zoomoo.jpg",
-        "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
-        "playInNatPlayer": "true"}]
-},
-{
-    "name": "Documentary",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/JXAKxheS6S.png",
-	"stations": [
-        {
-        "name":"CrimeFlix",
-        "image":"https://uppic.cloud/ib/Itys7teg2ydoBfM_1733193179.webp",
-        "url":"https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8",
-        "referer": "https://tv.garden/us/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-		{
-		"name": "Crime+Investigation (US)",
-		"image": "https://uppic.cloud/ib/YTWcvFTTt4.png",
-		"url": "https://dookeela.live/live-tv/crime-investigation#",
-		"referer": "https://dookeela.live/live-tv#",
-		"info": "", "desktop": "true"},
-		{
-		"name": "Crime+Investigation (UK)",
-		"image": "https://uppic.cloud/ib/YTWcvFTTt4.png",
-		"url": "https://streaming.livescorethai.net/iptv/uk-ci.stream/chunks.m3u8",
-		"referer": "https://freetvdd.com/",
-		"info": "", "desktop": "true"},
-        {
-        "name":"Crime ThrillHer",
-        "image":"https://uppic.cloud/ib/nyyJgj4Y8JT12MZ_1733193073.webp",
-        "url":"https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8",
-        "referer": "https://tv.garden/us/",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-        {
-          "name": "Crime Time Canada",
-          "image": "https://uppic.cloud/ib/XjfyTIFHfQaOMo3_1733194488.png",
-          "url": "https://apollo.production-public.tubi.io/live/ac-crimetime-canada.m3u8",
-          "referer": "https://tv.garden/us/"},
-		{
-		name:"Explorer",
-		"author": "",
-		image:"https://uppic.cloud/ib/XSunp6OhEP.jpg",
-		url:"https://5d2n.short.gy/New_Explorer.ek_bokhoso/playlist.m3u8",
-		"referer": "https://wacth.tv/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"},
-	        {
-	        "name": "Discovery Asia",
-	        "image": "https://uppic.cloud/ib/krNPQQ8QVB.png",
-	        "url": "https://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/playlist.m3u8",
-	        "referer": "https://streaming.livescorethai.net/"},
-	        {
-	        "name": "Discovery History (UK)",
-	        "image": "https://uppic.cloud/ib/U533eyOZCM.png",
-	        "url": "https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
-	        "referer": "https://streaming.livescorethai.net/"},
-{
-"name": "Food Network",
-"image": "https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_320.png",
-"imageScale": "fitStart",
-"url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8",
-"referer": "https://freetvdd.com",
-        "info":"",
-        "online": "true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
-},
-        {
-          "name": "FilmRise Horro",
-          "image": "https://uppic.cloud/ib/LJUkjmiPVj7f2PQ_1733194619.png",
-          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "FilmRise True Crime",
-          "image": "https://uppic.cloud/ib/kGPNlRGPfSSeLF2_1733194708.png",
-          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
-          "referer": "https://tv.garden/"},
-		{
-		"name": "FYI",
-		"image": "https://uppic.cloud/ib/p9SJt508qlVMxr4_1733287752.png",
-		"url": "https://v11.thetvapp.to/hls/FYIEast/index.m3u8?token=a255M1FXSHJJVlkwYkZRRHlGeGRVQ243eHpXQnQ3RFVyNHV0TTdrdw==",
-		"referer": "https://thetvapp.to/"},
-		{
-		"name": "HGTV",
-		"image": "https://uppic.cloud/ib/vixgz27BcYkG6Hg_1722324382.png",
-		"url": "https://v9.thetvapp.to/hls/HGTVEast/index.m3u8?token=a255M1FXSHJJVlkwYkZRRHlGeGRVQ243eHpXQnQ3RFVyNHV0TTdrdw==",
-		"referer": "https://thetvapp.to/"},
-		{
-		"name": "History (US)",
-		"image": "https://uppic.cloud/ib/tnCOqXD8dw.png",
-		"url": "https://dookeela.live/live-tv/history#",
-		"referer": "https://dookeela.live/live-tv#"},
-        {
-        "name": "History (UK)",
-    	"image": "https://uppic.cloud/ib/tnCOqXD8dw.png",
-    	"url": "https://streaming.livescorethai.net/iptv/uk-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
-    	"referer": "https://streaming.livescorethai.net/"},
-        {
-          "name": "HLN",
-          "image": "https://i.postimg.cc/nh84Hmhv/HLN.png",
-          "url": "https://v13.thetvapp.to/hls/HLN/index.m3u8?token=S1plQ3VvNHh6UWhzTkoyU0w3V3FjczZ0V2NQRmJscjF2cmJZNE13MQ==",
-          "referer": "https://thetvapp.to/tv/"},
-		{
-		"name": "Law & Crime", 
-		"image": "https://uppic.cloud/ib/73RlnCY6Ys.png",
-		"url":"https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/960x540_2120800/chunklist.m3u8",
-		"referer":"https://freetvdd.com/",
-		"info":""},
-		{
-		"name": "Lifetime (1)",
-		"image": "https://uppic.cloud/ib/qV6emO6gCu.jpg",
-		"url": "https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8",
-		"referer": "https://freetvdd.com/", "info": "", playInNatPlayer: "true"},
-		{
-		"name":"Lifeltime (2)",
-		"image":"https://uppic.cloud/ib/qV6emO6gCu.jpg",
-		"url": "https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
-		"referer": "https://freetvdd.com/"},
-        {
-          "name": "TLC",
-          "image": "https://i.postimg.cc/zGG5NXS0/tlc.jpg",
-          "url": "https://dookeela.live/live-tv/tlc#",
-          "referer": "https://dookeela.live/live-tv#"},
-		{
-		"name": "Travel XP",
-		"image": "https://uppic.cloud/ib/uvEUE0jwjf.jpg",
-		"url": "https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8",
-		"referer": "", "info": "", "desktop": "true"}]
-},
-	{
-    "name": "Sport TV",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/gqfyQDXirC.png",
-	"stations": [
-        {
-          "name": "BEIN SPORT HD 1",
-          "image": "https://uppic.cloud/ib/Opwg4rczOW.png",
-          "url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "BEIN SPORT HD 2",
-          "image": "https://uppic.cloud/ib/AzzeyRxFuA.png",
-          "url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-          {
-        "name": "FW Sports",
-        "image": "https://img5.pic.in.th/file/secure-sv1/SPb8cb76e015c2361b.png",
-        "imageScale": "fitStart",
-        "url": "https://www.inwiptv.com/player_demo.php?channel=92941",
-        "referer": "",
-        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-        "playInNatPlayer": "true"},
-        {
-          "name": "FOX SPORT HD1",
-          "image": "https://www.img03.xyz/assets/img/ch_logo/hd-spotv1.png",
-          "url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "FOX SPORT 2",
-          "image": "https://www.img08.xyz/assets/img/ch_logo/hd-spotv2.png",
-          "url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "FOX SPORT 3",
-          "image": "https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",
-          "url": "https://apollo.production-public.tubi.io/live/fox-sports.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "MLB",
-          "image": "https://uppic.cloud/ib/9mYwq0mUOymGorL_1733133304.jpg",
-          "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZLRx4ApNfk1jn4hzzpxn",
-          "referer": "https://www.plex.tv/watch-free-tv/"},
-        {
-          "name": "NBA",
-          "image": "https://uppic.cloud/ib/7xk16dD912vo4Cy_1733192959.webp",
-          "url": "https://tx2.nexgen.bz/NBA/index.m3u8",
-          "referer": "https://tv.garden/us"},
-        {
-          "name": "TENNIS HD",
-          "image": "https://uppic.cloud/ib/SifSJqZ4mb.png",
-          "url": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT HD1",
-          "image": "https://uppic.cloud/ib/6Z6s3mQabp.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT HD2 (1)",
-          "image": "https://uppic.cloud/ib/9eUkXqO1rN.jpg",
-          "url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT HD2 (2)",
-          "image": "https://uppic.cloud/ib/9eUkXqO1rN.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_sport2_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT HD3",
-          "image": "https://uppic.cloud/ib/3UHvzNjlVY.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT HD4",
-          "image": "https://uppic.cloud/ib/ZHf9GzbmPY.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT 5",
-          "image": "https://uppic.cloud/ib/bTRMjRSCK2.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT 6",
-          "image": "https://uppic.cloud/ib/02vEh0BV3w.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "TRUE SPORT 7",
-          "image": "https://uppic.cloud/ib/HXjz4d0Mwm.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "Premier Football HD 1 (1)",
-          "image": "https://uppic.cloud/ib/CLFfoFyL9f.jpg",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "Premier Football HD 1 (2)",
-          "image": "https://uppic.cloud/ib/CLFfoFyL9f.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "Premier Football HD 2",
-          "image": "https://uppic.cloud/ib/chXu0fLNyY.jpg",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "Premier Football HD 3",
-          "image": "https://uppic.cloud/ib/5pvCnyuipq.jpg",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "Premier Football HD 4",
-          "image": "https://uppic.cloud/ib/BcfchEwEdw.JPG",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "Premier Football HD 5",
-          "image": "https://uppic.cloud/ib/IAzHwtgsaw.JPG",
-          "url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"},
-        {
-          "name": "T Sports Channel",
-          "image": "https://uppic.cloud/ib/2DhmNG3JXG.jpg",
-          "url": "https://www.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
-          "referer": "https://www.madoohd.com/"}]
-},
-	{
-    "name": "TV.garden",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://images.vexels.com/media/users/3/127915/isolated/preview/a54f071ca9e3e27468292f0367419ff2-green-tv-line-icon-svg-by-vexels.png",
-	"stations": [
-		{
-          "name": "ABC News",
-          "image": "https://i.postimg.cc/L8wLyZrq/ABC-Newslogo.png",
-          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Alien Nation",
-          "image": "https://uppic.cloud/ib/V3F9Ozu569p7G1H_1733194166.png",
-          "url": "https://livetv-fa.tubi.video/alien-nation/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "AsianCrush",
-          "image": "https://i.postimg.cc/Y9fFqDjg/Asian-Crush.png",
-          "url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Brat TV",
-          "image": "https://i.postimg.cc/VvVwc19N/brat.png",
-          "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Britbox Mysteries",
-          "image": "https://i.postimg.cc/BQR3YSQY/BritBox.png",
-          "url": "https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Camp Spoopy",
-          "image": "https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",
-          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Charge!",
-          "image": "https://i.postimg.cc/2yCjwxxd/charge.png",
-          "url": "https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
-          "referer": "https://www.watchcharge.com/"},
-        {
-          "name": "Comet",
-          "image": "https://i.postimg.cc/654JGkLd/comet.png",
-          "url": "https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Cosmos",
-          "image": "https://uppic.cloud/ib/RezLlkAHC2r8wzh_1733194413.jpg",
-          "url": "https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "CraftsyTV",
-          "image": "https://logodix.com/logo/298802.png",
-          "url": "https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8",
-          "referer": "https://watch.plex.tv/"},
-        {
-          "name": "Design Network",
-          "image": "https://i.postimg.cc/BQZTt3Tv/Design-Network.png",
-          "url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8",
-          "referer": "https://watch.plex.tv/"},
-        {
-          "name": "FilmRise Horror",
-          "image": "https://uppic.cloud/ib/LJUkjmiPVj7f2PQ_1733194619.png",
-          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "FilmRise True Crime",
-          "image": "https://uppic.cloud/ib/kGPNlRGPfSSeLF2_1733194708.png",
-          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Fox Soul",
-          "image": "https://uppic.cloud/ib/Ys47ttHuEOwPcrL_1733197259.png",
-          "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Gardening with Monty Don",
-          "image": "https://i.postimg.cc/q7TWCgjK/montyslogo.png",
-          "url": "https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Global Fashion Channel",
-          "image": "https://uppic.cloud/ib/15h6wiREFRKN4Uw_1733195278.webp",
-          "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "GO2Travel",
-          "image": "https://i.postimg.cc/YqvR2kfw/Travel.png",
-          "url": "https://go2thls.wns.live/hls/stream.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "GQ",
-          "image": "https://i.postimg.cc/CxD4DNQP/GQ.png",
-          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Haunt TV",
-          "image": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/HauntTV_Samsung_Logo_v1_1000x1000_Circle.png?$296_164_PNG$",
-          "url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Homeful",
-          "image": "https://i.postimg.cc/ZYxPTnyg/Homeful.png",
-          "url": "https://aegis-cloudfront-1.tubi.video/36785f5f-4e63-4cca-a16a-c8b309af0287/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "ION Mystery",
-          "image": "https://i.postimg.cc/4Nbcgxmd/ION-Mystery.png",
-          "url": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Journy",
-          "image": "https://i.postimg.cc/DyyvSvxm/journy.png",
-          "url": "https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8",
-          "referer": "https://tv.garden/"},
-        {
-          "name": "Kartoon Channel",
-          "image": "https://i.postimg.cc/KYFf7Hwq/Kartoon.png",
-          "url": "https://lnc-kartoon.tubi.video/kc_co.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/us/TXc0ToY39JoCVk"
+        },
         {
           "name": "KidsFlix",
           "image": "https://uppic.cloud/ib/nEOhGGxBOfK06sV_1733196355.webp",
           "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
-          "referer": "https://tv.garden/"},
+          "referer": "https://freetvdd.com/",
+          "info": "TV.Garden"
+        },
+        {
+          "name": "True SparkPlay",
+          "image": "https://uppic.cloud/ib/nTie4wG6DjUvAEP_1722323599.jpg",
+          "url": "https://dookeela.live/live-tv/truesparkplay#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "ZOOMOO",
+          "image": "https://i.postimg.cc/Qx8YDtrH/zoomoo.jpg",
+          "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC38/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Documentary",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://uppic.cloud/ib/JXAKxheS6S.png",
+      "stations": [
+        {
+          "name": "CrimeFlix",
+          "image": "https://uppic.cloud/ib/Itys7teg2ydoBfM_1733193179.webp",
+          "url": "https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8",
+          "referer": "https://tv.garden/us/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Crime+Investigation (US)",
+          "image": "https://uppic.cloud/ib/YTWcvFTTt4.png",
+          "url": "https://dookeela.live/live-tv/crime-investigation#",
+          "referer": "https://dookeela.live/live-tv#",
+          "info": "",
+          "desktop": "true"
+        },
+        {
+          "name": "Crime+Investigation (UK)",
+          "image": "https://uppic.cloud/ib/YTWcvFTTt4.png",
+          "url": "https://streaming.livescorethai.net/iptv/uk-ci.stream/chunks.m3u8",
+          "referer": "https://freetvdd.com/",
+          "info": "",
+          "desktop": "true"
+        },
+        {
+          "name": "Crime ThrillHer",
+          "image": "https://uppic.cloud/ib/nyyJgj4Y8JT12MZ_1733193073.webp",
+          "url": "https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8",
+          "referer": "https://tv.garden/us/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Crime Time Canada",
+          "image": "https://uppic.cloud/ib/XjfyTIFHfQaOMo3_1733194488.png",
+          "url": "https://apollo.production-public.tubi.io/live/ac-crimetime-canada.m3u8",
+          "referer": "https://tv.garden/us/"
+        },
+        {
+          "name": "Explorer",
+          "author": "",
+          "image": "https://uppic.cloud/ib/XSunp6OhEP.jpg",
+          "url": "https://5d2n.short.gy/New_Explorer.ek_bokhoso/playlist.m3u8",
+          "referer": "https://wacth.tv/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+        },
+        {
+          "name": "Discovery Asia",
+          "image": "https://uppic.cloud/ib/krNPQQ8QVB.png",
+          "url": "https://streaming.livescorethai.net/iptv/hd-discoveryeng.stream/playlist.m3u8",
+          "referer": "https://streaming.livescorethai.net/"
+        },
+        {
+          "name": "Discovery History (UK)",
+          "image": "https://uppic.cloud/ib/U533eyOZCM.png",
+          "url": "https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/playlist.m3u8",
+          "referer": "https://streaming.livescorethai.net/"
+        },
+        {
+          "name": "Food Network",
+          "image": "https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_320.png",
+          "imageScale": "fitStart",
+          "url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8",
+          "referer": "https://freetvdd.com",
+          "info": "",
+          "online": "true",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+        },
+        {
+          "name": "FilmRise Horro",
+          "image": "https://uppic.cloud/ib/LJUkjmiPVj7f2PQ_1733194619.png",
+          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "FilmRise True Crime",
+          "image": "https://uppic.cloud/ib/kGPNlRGPfSSeLF2_1733194708.png",
+          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "FYI",
+          "image": "https://uppic.cloud/ib/p9SJt508qlVMxr4_1733287752.png",
+          "url": "https://v11.thetvapp.to/hls/FYIEast/index.m3u8?token=a255M1FXSHJJVlkwYkZRRHlGeGRVQ243eHpXQnQ3RFVyNHV0TTdrdw==",
+          "referer": "https://thetvapp.to/"
+        },
+        {
+          "name": "HGTV",
+          "image": "https://uppic.cloud/ib/vixgz27BcYkG6Hg_1722324382.png",
+          "url": "https://v9.thetvapp.to/hls/HGTVEast/index.m3u8?token=a255M1FXSHJJVlkwYkZRRHlGeGRVQ243eHpXQnQ3RFVyNHV0TTdrdw==",
+          "referer": "https://thetvapp.to/"
+        },
+        {
+          "name": "History (US)",
+          "image": "https://uppic.cloud/ib/tnCOqXD8dw.png",
+          "url": "https://dookeela.live/live-tv/history#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "History (UK)",
+          "image": "https://uppic.cloud/ib/tnCOqXD8dw.png",
+          "url": "https://streaming.livescorethai.net/iptv/uk-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+          "referer": "https://streaming.livescorethai.net/"
+        },
+        {
+          "name": "HLN",
+          "image": "https://i.postimg.cc/nh84Hmhv/HLN.png",
+          "url": "https://v13.thetvapp.to/hls/HLN/index.m3u8?token=S1plQ3VvNHh6UWhzTkoyU0w3V3FjczZ0V2NQRmJscjF2cmJZNE13MQ==",
+          "referer": "https://thetvapp.to/tv/"
+        },
+        {
+          "name": "Law & Crime",
+          "image": "https://uppic.cloud/ib/73RlnCY6Ys.png",
+          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/960x540_2120800/chunklist.m3u8",
+          "referer": "https://freetvdd.com/",
+          "info": ""
+        },
+        {
+          "name": "Lifetime (1)",
+          "image": "https://uppic.cloud/ib/qV6emO6gCu.jpg",
+          "url": "https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8",
+          "referer": "https://freetvdd.com/",
+          "info": "",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Lifeltime (2)",
+          "image": "https://uppic.cloud/ib/qV6emO6gCu.jpg",
+          "url": "https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8",
+          "referer": "https://freetvdd.com/"
+        },
+        {
+          "name": "TLC",
+          "image": "https://i.postimg.cc/zGG5NXS0/tlc.jpg",
+          "url": "https://dookeela.live/live-tv/tlc#",
+          "referer": "https://dookeela.live/live-tv#"
+        },
+        {
+          "name": "Travel XP",
+          "image": "https://uppic.cloud/ib/uvEUE0jwjf.jpg",
+          "url": "https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8",
+          "referer": "",
+          "info": "",
+          "desktop": "true"
+        }
+      ]
+    },
+    {
+      "name": "Sport TV",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://uppic.cloud/ib/gqfyQDXirC.png",
+      "stations": [
+        {
+          "name": "BEIN SPORT HD 1",
+          "image": "https://uppic.cloud/ib/Opwg4rczOW.png",
+          "url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "BEIN SPORT HD 2",
+          "image": "https://uppic.cloud/ib/AzzeyRxFuA.png",
+          "url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "FW Sports",
+          "image": "https://img5.pic.in.th/file/secure-sv1/SPb8cb76e015c2361b.png",
+          "imageScale": "fitStart",
+          "url": "https://www.inwiptv.com/player_demo.php?channel=92941",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "FOX SPORT HD1",
+          "image": "https://www.img03.xyz/assets/img/ch_logo/hd-spotv1.png",
+          "url": "https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "FOX SPORT 2",
+          "image": "https://www.img08.xyz/assets/img/ch_logo/hd-spotv2.png",
+          "url": "https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "FOX SPORT 3",
+          "image": "https://www.img08.xyz/assets/img/ch_logo/sd-foxsports3.png",
+          "url": "https://apollo.production-public.tubi.io/live/fox-sports.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "MLB",
+          "image": "https://uppic.cloud/ib/9mYwq0mUOymGorL_1733133304.jpg",
+          "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZLRx4ApNfk1jn4hzzpxn",
+          "referer": "https://www.plex.tv/watch-free-tv/"
+        },
+        {
+          "name": "NBA",
+          "image": "https://uppic.cloud/ib/7xk16dD912vo4Cy_1733192959.webp",
+          "url": "https://tx2.nexgen.bz/NBA/index.m3u8",
+          "referer": "https://tv.garden/us"
+        },
+        {
+          "name": "TENNIS HD",
+          "image": "https://uppic.cloud/ib/SifSJqZ4mb.png",
+          "url": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT HD1",
+          "image": "https://uppic.cloud/ib/6Z6s3mQabp.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT HD2 (1)",
+          "image": "https://uppic.cloud/ib/9eUkXqO1rN.jpg",
+          "url": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT HD2 (2)",
+          "image": "https://uppic.cloud/ib/9eUkXqO1rN.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_sport2_480p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT HD3",
+          "image": "https://uppic.cloud/ib/3UHvzNjlVY.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT HD4",
+          "image": "https://uppic.cloud/ib/ZHf9GzbmPY.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT 5",
+          "image": "https://uppic.cloud/ib/bTRMjRSCK2.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT 6",
+          "image": "https://uppic.cloud/ib/02vEh0BV3w.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "TRUE SPORT 7",
+          "image": "https://uppic.cloud/ib/HXjz4d0Mwm.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "Premier Football HD 1 (1)",
+          "image": "https://uppic.cloud/ib/CLFfoFyL9f.jpg",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "Premier Football HD 1 (2)",
+          "image": "https://uppic.cloud/ib/CLFfoFyL9f.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "Premier Football HD 2",
+          "image": "https://uppic.cloud/ib/chXu0fLNyY.jpg",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "Premier Football HD 3",
+          "image": "https://uppic.cloud/ib/5pvCnyuipq.jpg",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "Premier Football HD 4",
+          "image": "https://uppic.cloud/ib/BcfchEwEdw.JPG",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "Premier Football HD 5",
+          "image": "https://uppic.cloud/ib/IAzHwtgsaw.JPG",
+          "url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        },
+        {
+          "name": "T Sports Channel",
+          "image": "https://uppic.cloud/ib/2DhmNG3JXG.jpg",
+          "url": "https://www.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
+          "referer": "https://www.madoohd.com/"
+        }
+      ]
+    },
+    {
+      "name": "TV.garden",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://images.vexels.com/media/users/3/127915/isolated/preview/a54f071ca9e3e27468292f0367419ff2-green-tv-line-icon-svg-by-vexels.png",
+      "stations": [
+        {
+          "name": "ABC News",
+          "image": "https://i.postimg.cc/L8wLyZrq/ABC-Newslogo.png",
+          "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Alien Nation",
+          "image": "https://uppic.cloud/ib/V3F9Ozu569p7G1H_1733194166.png",
+          "url": "https://livetv-fa.tubi.video/alien-nation/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "AsianCrush",
+          "image": "https://i.postimg.cc/Y9fFqDjg/Asian-Crush.png",
+          "url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Brat TV",
+          "image": "https://i.postimg.cc/VvVwc19N/brat.png",
+          "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Britbox Mysteries",
+          "image": "https://i.postimg.cc/BQR3YSQY/BritBox.png",
+          "url": "https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Camp Spoopy",
+          "image": "https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Charge!",
+          "image": "https://i.postimg.cc/2yCjwxxd/charge.png",
+          "url": "https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+          "referer": "https://www.watchcharge.com/"
+        },
+        {
+          "name": "Comet",
+          "image": "https://i.postimg.cc/654JGkLd/comet.png",
+          "url": "https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Cosmos",
+          "image": "https://uppic.cloud/ib/RezLlkAHC2r8wzh_1733194413.jpg",
+          "url": "https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "CraftsyTV",
+          "image": "https://logodix.com/logo/298802.png",
+          "url": "https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8",
+          "referer": "https://watch.plex.tv/"
+        },
+        {
+          "name": "Design Network",
+          "image": "https://i.postimg.cc/BQZTt3Tv/Design-Network.png",
+          "url": "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8",
+          "referer": "https://watch.plex.tv/"
+        },
+        {
+          "name": "FilmRise Horror",
+          "image": "https://uppic.cloud/ib/LJUkjmiPVj7f2PQ_1733194619.png",
+          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "FilmRise True Crime",
+          "image": "https://uppic.cloud/ib/kGPNlRGPfSSeLF2_1733194708.png",
+          "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Fox Soul",
+          "image": "https://uppic.cloud/ib/Ys47ttHuEOwPcrL_1733197259.png",
+          "url": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Gardening with Monty Don",
+          "image": "https://i.postimg.cc/q7TWCgjK/montyslogo.png",
+          "url": "https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Global Fashion Channel",
+          "image": "https://uppic.cloud/ib/15h6wiREFRKN4Uw_1733195278.webp",
+          "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "GO2Travel",
+          "image": "https://i.postimg.cc/YqvR2kfw/Travel.png",
+          "url": "https://go2thls.wns.live/hls/stream.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "GQ",
+          "image": "https://i.postimg.cc/CxD4DNQP/GQ.png",
+          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Haunt TV",
+          "image": "https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/HauntTV_Samsung_Logo_v1_1000x1000_Circle.png?$296_164_PNG$",
+          "url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Homeful",
+          "image": "https://i.postimg.cc/ZYxPTnyg/Homeful.png",
+          "url": "https://aegis-cloudfront-1.tubi.video/36785f5f-4e63-4cca-a16a-c8b309af0287/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "ION Mystery",
+          "image": "https://i.postimg.cc/4Nbcgxmd/ION-Mystery.png",
+          "url": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Journy",
+          "image": "https://i.postimg.cc/DyyvSvxm/journy.png",
+          "url": "https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "Kartoon Channel",
+          "image": "https://i.postimg.cc/KYFf7Hwq/Kartoon.png",
+          "url": "https://lnc-kartoon.tubi.video/kc_co.m3u8",
+          "referer": "https://tv.garden/"
+        },
+        {
+          "name": "KidsFlix",
+          "image": "https://uppic.cloud/ib/nEOhGGxBOfK06sV_1733196355.webp",
+          "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Mad Dog & Merrill",
           "image": "https://i.postimg.cc/52DbKwbF/Mad-Dog-Merrill.png",
           "url": "https://bozztv.com/gusa/gusa-mwg/index.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Made in Hollywood",
           "image": "https://uppic.cloud/ib/Nd51sl9nk5DCO8v_1733195444.jpg",
           "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Midsomer Murder",
           "image": "https://i.postimg.cc/sD8k3s8k/Midsomer-Murders.png",
           "url": "https://apollo.production-public.tubi.io/live/ac-midsomer-murders.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "MovieSphere",
           "image": "https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/MovieSphere_1x1_Circle.png?$ORIGIN_PNG$",
           "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Museum TV (BelAir)",
           "image": "https://i.postimg.cc/qB6YQ9gQ/BelAir.jpg",
           "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Nest",
           "image": "https://i.postimg.cc/dVJZ5cQy/nest.png",
           "url": "https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Nickelodeon (US)",
           "image": "https://i.postimg.cc/Kctf1F1X/Nickelodeon-Logo.png",
           "url": "https://tx2.nexgen.bz/NICKELODEON/index.m3u8",
-          "referer": "https://tv.garden/us/TXc0ToY39JoCVk"},
+          "referer": "https://tv.garden/us/TXc0ToY39JoCVk"
+        },
         {
           "name": "PBS Kids",
           "image": "http://img4.wikia.nocookie.net/__cb20120817224143/logopedia/images/6/69/PBS_Kids_Logo_Dot.svg.png",
           "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "PW Kids",
           "image": "https://i.postimg.cc/wjdZwbdy/kidstv.png",
           "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7f.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ya5TkVu4rzxcFdxVun-M",
-          "referer": "https://watch.plex.tv/"},
+          "referer": "https://watch.plex.tv/"
+        },
         {
           "name": "So...Real",
           "image": "https://i.postimg.cc/14xbcKp9/soReal.jpg",
           "url": "https://apollo.production-public.tubi.io/live/so-real.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Cine Sony",
           "image": "https://i.postimg.cc/rmxHyrB3/Sony-movies.png",
           "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Teletubbies (UK)",
           "image": "https://logodix.com/logo/1643690.png",
           "url": "https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8",
-          "referer": "https://tv.garden/uk"},
+          "referer": "https://tv.garden/uk"
+        },
         {
           "name": "Time Line (UK)",
           "image": "https://i.postimg.cc/gjkBykt2/timeline.png",
           "url": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Toon Goggles",
           "image": "https://i.postimg.cc/FKsW56pf/toon-goggles.png",
           "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Travel XP (UK)",
           "image": "http://img2.wikia.nocookie.net/__cb20111017105347/logopedia/images/2/23/Travel_xp_hd.png",
           "url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Unexplained TV",
           "image": "https://uppic.cloud/ib/zR3TQ3ZDnOneAWi_1733196029.png",
           "url": "https://d2anxoa8ay4brr.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-UnexplainedTV/454.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Vogue",
           "image": "https://i.postimg.cc/SxWHcsmc/vogue.png",
           "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Xplore",
           "image": "https://i.postimg.cc/HLzKPhcx/Xplore.png",
           "url": "https://xlpore-samsungus.amagi.tv/playlist.m3u8",
-          "referer": "https://tv.garden/"},
+          "referer": "https://tv.garden/"
+        },
         {
           "name": "Yahoo! Finance",
           "image": "https://i.postimg.cc/XYq663W5/Yahoo-Finance.png",
           "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
-          "referer": "https://tv.garden/"}]
-},
-	{
-    "name": "Web online",
-    "author": "TungTe",
-    "info": "",
-    "image": "https://uppic.cloud/ib/FfzMDXxwqy.png",
-	"stations": [
+          "referer": "https://tv.garden/"
+        }
+      ]
+    },
+    {
+      "name": "Web online",
+      "author": "TungTe",
+      "info": "",
+      "image": "https://uppic.cloud/ib/FfzMDXxwqy.png",
+      "stations": [
         {
-        "name": "เวปออนไลน์ 1",
-        "image": "https://uppic.cloud/ib/oMAnYL9PVa.png",
-        "imageScale": "fitStart",
-        "url": "https://dookeela.live/live-tv#",
-        "referer": "https://dookeela.live/live-tv#",
-        "online":"",
-        "info":"",
-        "userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""},
+          "name": "เวปออนไลน์ 1",
+          "image": "https://uppic.cloud/ib/oMAnYL9PVa.png",
+          "imageScale": "fitStart",
+          "url": "https://dookeela.live/live-tv#",
+          "referer": "https://dookeela.live/live-tv#",
+          "online": "",
+          "info": "",
+          "userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13",
+          "embed": "true",
+          "epgId": ""
+        },
         {
-        "name": "เวปออนไลน์ 3",
-        "image": "https://uppic.cloud/ib/HLEZwxcztb.png",
-        "imageScale": "fitStart",
-        "url": "https://www.fwiptv.tv/category/Thai-Movies/",
-        "referer": "https://www.fwiptv.tv/",
-        "imageScale": "fitStart",
-        "online":"",
-        "info":"",
-        "userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13", "embed": "true",
-"epgId": ""}]
-},
-]
+          "name": "เวปออนไลน์ 3",
+          "image": "https://uppic.cloud/ib/HLEZwxcztb.png",
+          "imageScale": "fitStart",
+          "url": "https://www.fwiptv.tv/category/Thai-Movies/",
+          "referer": "https://www.fwiptv.tv/",
+          "online": "",
+          "info": "",
+          "userAgent": "ExoPlayerDemo/4.0.02019 (Linux;Android 12) ExoPlayerLib/1.5.13",
+          "embed": "true",
+          "epgId": ""
+        }
+      ]
+    }
+  ]
 }
