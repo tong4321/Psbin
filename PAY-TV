@@ -1,0 +1,44 @@
+{
+  "name": "PAY TV",
+  "author": "SUN",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHC90Kpc9MviSLVLPFqvWA6FkaA8W2oIq1Gw&usqp=CAU",
+  "url": "https://pastebin.com/raw/ZdTdnsWv",
+  "groups": [
+    {
+      "name": "DIGITAL TV",
+      "image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+      "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/refs/heads/main/DIGITALTVv6",
+      "import": false
+    },
+    {
+      "name": "DOCUMENTARY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6KBVGrU6YY5bwzEYaPg9vd4Poygc-bCcMQ&usqp=CAU",
+      "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/DOCUMENTARYv6",
+      "import": false
+    },
+    {
+      "name": "ENTERTAINMENT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
+      "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/ENTERTAINMENTv6",
+      "import": false
+    },
+    {
+      "name": "KIDS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+      "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/KIDSv6",
+      "import": false
+    },
+    {
+      "name": "NEWS",
+      "image": "https://uploads.turbologo.com/uploads/design/preview_image/1475872/preview_image20201021-12242-1jfx4bb.png",
+      "url": "https://pastebin.com/XBKaQEsE",
+      "import": false
+    },
+    {
+      "name": "SPORTS",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29PGwocI1rUbh5dTH0pOuNVrk_ViUwKmIyQ&usqp=CAU",
+      "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/SPORTSv6",
+      "import": false
+    }
+  ]
+}
